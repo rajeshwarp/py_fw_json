@@ -19,7 +19,7 @@ class RequestsUtility:
             print(j_url)
             rs_api = requests.get(j_url)
             status_code = rs_api.status_code
-            # # #rs_api.expected_status_code = status_code
-            # # rs_json = rs_api.json()
-            # # # logger.debug(f"GET API response: {rs_json}")
-            print(status_code)
+            if status_code == 200:
+                assert True
+            else:
+                assert False

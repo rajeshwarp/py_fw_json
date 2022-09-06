@@ -1,0 +1,234 @@
+09/03/2022 11:48:51 PM - MDriver - INFO: ******** Reading JSON **********
+09/03/2022 11:48:51 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/03/2022 11:48:51 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/03/2022 11:48:51 PM - MDriver - INFO: ********  Test Step initiated **********
+09/03/2022 11:48:51 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/03/2022 11:48:51 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/03/2022 11:53:43 PM - MDriver - INFO: ******** Reading JSON **********
+09/03/2022 11:53:43 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/03/2022 11:53:43 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/03/2022 11:53:43 PM - MDriver - INFO: ********  Test Step initiated **********
+09/03/2022 11:53:43 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/03/2022 11:53:43 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/03/2022 11:54:42 PM - MDriver - INFO: ******** Reading JSON **********
+09/03/2022 11:54:42 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/03/2022 11:54:42 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/03/2022 11:54:42 PM - MDriver - INFO: ********  Test Step initiated **********
+09/03/2022 11:54:42 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/03/2022 11:54:42 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/03/2022 11:54:43 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/03/2022 11:54:43 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/03/2022 11:54:43 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/03/2022 11:54:43 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/03/2022 11:54:45 PM - MDriver - INFO: ******** Running Test case no: 2 with ID > Branches_02
+09/03/2022 11:54:45 PM - MDriver - INFO: ********  Test Step initiated **********
+09/03/2022 11:54:45 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/03/2022 11:54:45 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/03/2022 11:54:45 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/03/2022 11:54:45 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/03/2022 11:54:45 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/03/2022 11:54:45 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 01:25:22 PM - MDriver - INFO: ******** Reading JSON **********
+09/04/2022 01:25:22 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/04/2022 01:25:22 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/04/2022 01:25:22 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 01:25:22 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 01:25:22 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 01:25:23 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 01:25:23 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 01:25:23 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 01:25:23 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 01:25:24 PM - MDriver - INFO: ******** Running Test case no: 2 with ID > Branches_02
+09/04/2022 01:25:24 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 01:25:24 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 01:25:24 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 01:25:25 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 01:25:25 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 01:25:25 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 01:25:25 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 02:59:57 PM - MDriver - INFO: ******** Reading JSON **********
+09/04/2022 02:59:57 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/04/2022 02:59:57 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/04/2022 02:59:57 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 02:59:57 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 02:59:57 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 02:59:58 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 02:59:58 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 02:59:58 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 02:59:58 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:00:00 PM - MDriver - INFO: ******** Running Test case no: 2 with ID > Branches_02
+09/04/2022 03:00:00 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:00:00 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:00:00 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:00:01 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:00:01 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:00:01 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:00:01 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:01:38 PM - MDriver - INFO: ******** Reading JSON **********
+09/04/2022 03:01:38 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/04/2022 03:01:38 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/04/2022 03:01:38 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:01:38 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:01:38 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:01:39 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:01:39 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:01:39 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:01:39 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:01:41 PM - MDriver - INFO: ******** Running Test case no: 2 with ID > Branches_02
+09/04/2022 03:01:41 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:01:41 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:01:41 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:01:42 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:01:42 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:01:42 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:01:42 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:02:43 PM - MDriver - INFO: ******** Reading JSON **********
+09/04/2022 03:02:43 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/04/2022 03:02:43 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/04/2022 03:02:43 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:02:43 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:02:43 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:02:44 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:02:44 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:02:44 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:02:44 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:02:49 PM - MDriver - INFO: ******** Running Test case no: 2 with ID > Branches_02
+09/04/2022 03:02:49 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:02:49 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:02:49 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:02:50 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:02:50 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:02:50 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:02:50 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:05:12 PM - MDriver - INFO: ******** Reading JSON **********
+09/04/2022 03:05:12 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/04/2022 03:05:12 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/04/2022 03:05:12 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:05:12 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:05:12 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:05:13 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:05:13 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:05:13 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:05:13 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:05:15 PM - MDriver - INFO: ******** Running Test case no: 2 with ID > Branches_02
+09/04/2022 03:05:15 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:05:15 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:05:15 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:05:16 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:05:16 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:05:16 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:05:16 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:07:01 PM - MDriver - INFO: ******** Reading JSON **********
+09/04/2022 03:07:01 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/04/2022 03:07:01 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/04/2022 03:07:01 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:07:01 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:07:01 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:07:01 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:07:01 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:07:01 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:07:01 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:07:03 PM - MDriver - INFO: ******** Running Test case no: 2 with ID > Branches_02
+09/04/2022 03:07:03 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:07:03 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:07:03 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:07:04 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:07:04 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:07:04 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:07:04 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:10:29 PM - MDriver - INFO: ******** Reading JSON **********
+09/04/2022 03:10:29 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/04/2022 03:10:29 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/04/2022 03:10:29 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:10:29 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:10:29 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:10:30 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:10:30 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:10:30 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:10:30 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:10:32 PM - MDriver - INFO: ******** Running Test case no: 2 with ID > Branches_02
+09/04/2022 03:10:32 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:10:32 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:10:32 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:10:33 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:10:33 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:10:33 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:10:33 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:16:44 PM - MDriver - INFO: ******** Reading JSON **********
+09/04/2022 03:16:44 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/04/2022 03:16:44 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/04/2022 03:16:44 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:16:44 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:16:44 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:16:45 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:16:45 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:16:45 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:16:45 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:16:47 PM - MDriver - INFO: ******** Running Test case no: 2 with ID > Branches_02
+09/04/2022 03:16:47 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:16:47 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:16:47 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:16:47 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:16:47 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:16:47 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:16:47 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:22:21 PM - MDriver - INFO: ******** Reading JSON **********
+09/04/2022 03:22:21 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/04/2022 03:22:21 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/04/2022 03:22:21 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:22:21 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:22:21 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:22:21 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:22:21 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:22:21 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:22:21 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:22:23 PM - MDriver - INFO: ******** Running Test case no: 2 with ID > Branches_02
+09/04/2022 03:22:23 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:22:23 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:22:23 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:22:24 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:22:24 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:22:24 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:22:24 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:30:06 PM - MDriver - INFO: ******** Reading JSON **********
+09/04/2022 03:30:06 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/04/2022 03:30:06 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/04/2022 03:30:06 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:30:06 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:30:06 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:30:07 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:30:07 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:30:07 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:30:07 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:30:09 PM - MDriver - INFO: ******** Running Test case no: 2 with ID > Branches_02
+09/04/2022 03:30:09 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:30:09 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:30:09 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:30:09 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:30:09 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:30:09 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:30:09 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:37:14 PM - MDriver - INFO: ******** Reading JSON **********
+09/04/2022 03:37:14 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/04/2022 03:37:14 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/04/2022 03:37:14 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:37:14 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:37:14 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:37:15 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:37:15 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:37:15 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:37:15 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:37:16 PM - MDriver - INFO: ******** Running Test case no: 2 with ID > Branches_02
+09/04/2022 03:37:16 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 03:37:16 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 03:37:16 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:37:17 PM - MDriver - INFO: ******** Running Test Step - 2 with NAME > Store owner and repoName values of the above response 
+09/04/2022 03:37:17 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 03:37:17 PM - MDriver - INFO: ******** Running Test Step - 3 with NAME > Send GET request to get branches 
+09/04/2022 03:37:17 PM - <module> - INFO: ******** Calling Function : RestAPIAction
+09/04/2022 09:14:19 PM - MDriver - INFO: ******** Reading JSON **********
+09/04/2022 09:14:19 PM - MDriver - INFO: ******** Capturing Nodes **********
+09/04/2022 09:14:19 PM - MDriver - INFO: ******** Running Test case no: 1 with ID > Branches_01
+09/04/2022 09:14:19 PM - MDriver - INFO: ********  Test Step initiated **********
+09/04/2022 09:14:19 PM - MDriver - INFO: ******** Running Test Step - 1 with NAME > Search repository 
+09/04/2022 09:14:19 PM - <module> - INFO: ******** Calling Function : RestAPIAction
